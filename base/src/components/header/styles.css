@@ -10,7 +10,7 @@ header {
 }
 
 .arrow-back {
-    /* position: relative; */
+    position: absolute;
     left: 48px;
     top: 48px;
     cursor: pointer;
